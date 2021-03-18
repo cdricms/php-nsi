@@ -1,0 +1,46 @@
+html {
+  background-color: wheat;
+}
+
+body {
+  background-color: aliceblue;
+  width: 50em;
+  min-height: 20em;
+  padding: 0.5em;
+  margin: auto;
+  margin-top: 2em;
+}
+
+body h1 {
+  text-align: center;
+}
+
+body p {
+  text-align: justify;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  display: flex;
+  height: 2em;
+  width: 10em;
+  justify-content: center;
+  align-items: center;
+  margin: 1em;
+  background-color: royalblue;
+  text-decoration: none;
+  color: black;
+  transition: 1s;
+}
+
+nav a:hover {
+  background-color: orange;
+}
+
+.session {
+  color: purple;
+}
