@@ -10,7 +10,7 @@
   <h1>Variables et Calculs</h1>
   <?php
         $number1 = 1.7;
-        $number2 = 2.3;
+        $number2 = 2.6;
         $number3 = 4.5;
 
         echo '<p>Le nombre stocké dans la variable $number1 est :' . " $number1</p>";
